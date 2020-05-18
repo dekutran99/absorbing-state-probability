@@ -4,7 +4,7 @@
 ***This code was created to solve the problem below from Google FooBar Challenge***
 <br>
 <br>
-####Doomsday Fuel
+#### Doomsday Fuel
 <br>
 Making fuel for the LAMBCHOP's reactor core is a tricky process because of the exotic matter involved. It starts as raw ore, then during processing, begins randomly changing between forms, eventually reaching a stable form. There may be multiple stable forms that a sample could ultimately reach, not all of which are useful as fuel.
 <br>
