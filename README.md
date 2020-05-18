@@ -1,4 +1,4 @@
-# Absorbing State Probaility
+# Absorbing State Probability
 
 
 ***This code was created to solve the problem below from Google FooBar Challenge
